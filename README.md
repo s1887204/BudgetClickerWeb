@@ -12,3 +12,8 @@ uh oh, you have accidentally went into crippling debt after losing a lawsuit to 
 ### Github Releases [also right here!!1](https://github.com/s1887204/BudgetClickerWeb/releases) (also includes dropbox downloads for Android and PC!)
 
 ### Game link [here!!!](https://s1887204.github.io/BudgetClickerWeb/htmlDemo/funny%20game.html) -- NEW DEMO VERSION RELEASED W/ WEB BROWSER SAVING!1!!
+
+## game explanation for now
+uhh nothing much. side buttons don't work yet. if you wish to save to your browser cookies (funny haha) you can press "C" and hope that it saves properly, as it could malfunction somehow.
+will make downloading your saves and importing them possible when I can and when I'm smart enough.
+screen is also kinda messed up, looking into a fix when I can.
