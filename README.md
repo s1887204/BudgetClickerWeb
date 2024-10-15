@@ -11,4 +11,4 @@ uh oh, you have accidentally went into crippling debt after losing a lawsuit to 
 ### Github Repository [right here!1!](https://github.com/s1887204/BudgetClickerWeb) -- Reminder that the repository is just the HTML game and the website stuff.
 ### Github Releases [also right here!!1](https://github.com/s1887204/BudgetClickerWeb/releases) (also includes dropbox downloads for Android and PC!)
 
-### Game link [here!!!](https://github.com/s1887204/BudgetClickerWeb/releases)
+### Game link [here!!!](https://s1887204.github.io/BudgetClickerWeb/htmlDemo/funny%20game.html) -- NEW DEMO VERSION RELEASED W/ WEB BROWSER SAVING!1!!
