@@ -1,3 +1,5 @@
+## kinda not being maintained currently. check for javascript-clicker-attempt
+
 # BudgetClickerWeb
 
 Cookie Clicker, but it was made on a $1 budget.
